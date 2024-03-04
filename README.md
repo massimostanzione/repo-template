@@ -5,3 +5,4 @@ Continuously updated, based on the components that I gradually find interesting.
 
 Components currently included:
 - [**<code>TDG</code> plugin**](https://github.com/ribtoks/tdg-github-action): I often add lots of <code>TODO</code> while coding, so... why not?
+_( ... **update permissions properly** via Settings/Actions/General/Workflow permissions)_
